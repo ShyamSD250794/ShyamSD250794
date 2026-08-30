@@ -1,8 +1,8 @@
-# Hi, I'm Shyam Das 👋
+# Hi, I'm Shyam S Das
 
 **Data Analyst | Business Intelligence & Analytics**
 
-I turn raw operational and sales data into dashboards that decision-makers actually use — built on PostgreSQL, Power BI, Power Query, and Excel.
+I turn raw operational and sales data into dashboards that decision-makers can actually use — built on PostgreSQL, Power BI, Power Query, and Excel.
 
 📍 Based in India · 🔗 [LinkedIn](https://www.linkedin.com/in/shyam-s-das-551719135/)
 
